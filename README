@@ -1,0 +1,10 @@
+phpGeo is a set of PHP classes for common geolocalisation tasks.
+Everyone is welcome to contribute !
+
+Features :
+
+* coordinates conversion ( decimal, degrees, GPS... )
+* distance between 2 points in differents formats (kilometers, miles)
+* TODO : GPX files import/export
+* TODO : Google Maps stuff
+

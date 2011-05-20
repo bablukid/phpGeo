@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="GeoToad" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+<name>20110520T104215</name>
+<desc>GeoToad: paris, france (3.0mi. radius) (20May11 12:53)</desc>
+<author>GeoToad 3.14.4</author>
+<email>geotoad@googlegroups.com</email>
+<time>2011-05-20T10:42:15.000Z</time>
+<keywords>cache, geocache, groundspeak, geotoad</keywords>
+<wpt lat="48.8641666666667" lon="2.30085">
+  <time>2002-06-13T07:00:00.000Z</time>
+  <name>GC63DB</name>
+  <desc>Liberty&#39;s Flame by otterbuff, virtual (1/1)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC63DB</url>
+  <urlname>Liberty&#39;s Flame</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Virtual Cache</type>
+  <groundspeak:cache id="25563" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>Liberty&#39;s Flame</groundspeak:name>
+  <groundspeak:placed_by>otterbuff</groundspeak:placed_by>
+  <groundspeak:owner id="3668345264">otterbuff</groundspeak:owner>
+  <groundspeak:type>Virtual Cache</groundspeak:type>
+  <groundspeak:container>virtual</groundspeak:container>
+  <groundspeak:difficulty>1</groundspeak:difficulty>
+  <groundspeak:terrain>1</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;A city virtual cache with great views and a tragic history</groundspeak:short_description>
+  <groundspeak:long_description html="True">------------&lt;br /&gt; January 2008. I have been thinking about the future of this cache for about a year. I thought the new year would be a good time to make a move. As soon as I disabled it, I received an outpouring of support for Liberty's Flame from around the world!! As a result, I will re-enable the cache with a change. I am doing away with the challenge question and in its place, I invite new finders to POST A PHOTO OF THE FLAME WITH THEIR GPS - old finders are encouraged to repost their pictures as well! By the way, the original answer was the Eiffel Tower!&lt;br /&gt; ------------DO NOT FORGET THE GPS IN YOUR PICTURE (starting in June, new finds without GPS in pics will be deleted.) ------------&lt;br /&gt; This is a virtual cache that came to international attention in 1997 (10 years after it had been installed). Originally this item was placed by the International Herald Tribune to celebrate its one hundredth anniversary. Now the location is known for something much less joyful. To log this virtual cache, at the site please say a prayer, a silent reflection, or something else of a thoughtful nature (but please do not leave any graffiti). To log your visit, please post a picture of the flame with your GPS. Make those pictures fun!!!! Logs without photos added to the cache log will be deleted, as will internet &quot;finds&quot; by those who do not visit the location. THANKS AND ENJOY!&lt;br /&gt; &lt;br /&gt;</groundspeak:long_description>
+  <groundspeak:encoded_hints>This is the bridge over where Princess Diana, Dodi Fayed, and their chauffer died in 1997. The flame is a replica of the torch held by the Statue of Liberty in New York City.</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="767202934">
+      <groundspeak:date>2011-05-16T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Write note</groundspeak:type>
+      <groundspeak:finder id="1534573496">sirtomtom</groundspeak:finder>
+      <groundspeak:text encoded="False">Of course my TB joined me on my way.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="240606759">
+      <groundspeak:date>2011-05-16T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1534573496">sirtomtom</groundspeak:finder>
+      <groundspeak:text encoded="False">Thanx for showing this place. Did a little sightseeing by geocaching. That makes fun. TFTC Sirtomtom</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="611223621">
+      <groundspeak:date>2011-05-15T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2779111545">ScuttlersUK</groundspeak:finder>
+      <groundspeak:text encoded="False">Nice easy find on our trip to Paris. TFTC, ScuttlersUK</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2907259582">
+      <groundspeak:date>2011-05-15T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="862694080">Nick G. Saint</groundspeak:finder>
+      <groundspeak:text encoded="False">Found with gem1402 during our vacations in Paris. Nice spot, but tragically.&lt;br/&gt;&lt;br/&gt;TFTC.&lt;br/&gt;&lt;br/&gt;Gem1402 took my photo.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2455992741">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1766543984">Whitesnake62</groundspeak:finder>
+      <groundspeak:text encoded="False">Found a trip to Paris.Thank you a nice cache.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="559589295">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2029522602">TeamWaldesruh</groundspeak:finder>
+      <groundspeak:text encoded="False">During our short trip in Paris we visited this cache.&lt;br/&gt;Thanks for this cache and greetings from Germany&lt;br/&gt;#549&lt;br/&gt;Merci</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2344400346">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2950212751">zizkoffcrew</groundspeak:finder>
+      <groundspeak:text encoded="False">I visited this plase when i went on Eifel tower. TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1686433163">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2598408999">turko</groundspeak:finder>
+      <groundspeak:text encoded="False">Nice place, TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="636034615">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="4115912139">DandTBu</groundspeak:finder>
+      <groundspeak:text encoded="False">Thanks for keeping the flame alive. TFTC.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1095170384">
+      <groundspeak:date>2011-05-11T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1960636875">English Rose</groundspeak:finder>
+      <groundspeak:text encoded="False">An easy find on a stroll back from visiting the Eiffel Tower.</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+<wpt lat="48.8627833333333" lon="2.33143333333333">
+  <time>2002-06-15T07:00:00.000Z</time>
+  <name>GC6612</name>
+  <desc>Who is She? (Paris) by John Stead, virtual (1/1)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC6612</url>
+  <urlname>Who is She? (Paris)</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Virtual Cache</type>
+  <groundspeak:cache id="26130" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>Who is She? (Paris)</groundspeak:name>
+  <groundspeak:placed_by>John Stead</groundspeak:placed_by>
+  <groundspeak:owner id="3576187990">John Stead</groundspeak:owner>
+  <groundspeak:type>Virtual Cache</groundspeak:type>
+  <groundspeak:container>virtual</groundspeak:container>
+  <groundspeak:difficulty>1</groundspeak:difficulty>
+  <groundspeak:terrain>1</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;A statue by a famous garden</groundspeak:short_description>
+  <groundspeak:long_description html="True">The result of an enjoyable couple of hours walking round Paris was a number of photographs, including one of a friend being a bit naughty near the Place Du Carrousel.&lt;br/&gt;&lt;br/&gt;EDITED 10 October 2009 &lt;br/&gt; &lt;br/&gt;Originally I asked who this statue by Maillol was in memory of to prove you had been there but as the information is there for anyone to see on Waymarking .com - (&lt;a href='http://www.waymarking.com/waymarks/WM6GA0_Monument_Czanne_in_Tuileries_Garden_Paris_France' target='_blank' rel='nofollow'&gt;visit link&lt;/a&gt;) - I now ask for a photo of you or your GPS in front of the statue as proof. &lt;br/&gt;&lt;br/&gt;I hope this change does not result in archival as it seems this virtual goves a lot of people a lot of fun.&lt;br/&gt;&lt;br/&gt;PLEASE LOG IN ENGLISH</groundspeak:long_description>
+  <groundspeak:encoded_hints>Naked lady</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="3511971719">
+      <groundspeak:date>2011-05-19T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="878915719">Les JuJus</groundspeak:finder>
+      <groundspeak:text encoded="False">Tadaaaaaa! MPLC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="498640122">
+      <groundspeak:date>2011-05-18T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2090633710">freefalling_flower</groundspeak:finder>
+      <groundspeak:text encoded="False">Was chilling out with this lovely lady on my trip to th Louvre a week ago.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1606323393">
+      <groundspeak:date>2011-05-18T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1103558339">FlavignyTeam</groundspeak:finder>
+      <groundspeak:text encoded="False">I asked one of the billion of tourists to shot the picture. Thank's to him.&lt;br/&gt;&lt;br/&gt;TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1750558060">
+      <groundspeak:date>2011-05-16T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2614451689">oldhikers</groundspeak:finder>
+      <groundspeak:text encoded="False">Wonderful visit to Paris and the Louvre. So many beautiful things to see.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3812911814">
+      <groundspeak:date>2011-05-16T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2385892925">Mags86</groundspeak:finder>
+      <groundspeak:text encoded="False">Dangermouse a pris mon photo... MPC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3391835433">
+      <groundspeak:date>2011-05-16T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2418680373">dangermouse3314</groundspeak:finder>
+      <groundspeak:text encoded="False">What a busy area today. so many children eating on the grass close by. Mags86 took my picture. TFTC! &lt;br/&gt;&lt;br/&gt;-Dangermouse</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3216836474">
+      <groundspeak:date>2011-05-15T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2948921359">Team C&amp;A</groundspeak:finder>
+      <groundspeak:text encoded="False">On a beautiful day in Paris we found her.&lt;br/&gt;Oeps wrong one. &lt;img src=&quot;/images/icons/icon_smile_sad.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;br/&gt;&lt;br/&gt;This entry was edited by Team C&amp;A on Monday, 16 May 2011 at 18:26:10 UTC.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2453723222">
+      <groundspeak:date>2011-05-15T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2219210082">JESAMO</groundspeak:finder>
+      <groundspeak:text encoded="False">Thanks for showinf us this cute Lady ;-).&lt;br/&gt;Photo will we be added as soon as we are back in Germany.&lt;br/&gt;Greetings&lt;br/&gt;JESAMO</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1759183617">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="862694080">Nick G. Saint</groundspeak:finder>
+      <groundspeak:text encoded="False">Found together with gem1402 during our holidays in Paris. Sexys girls both :)&lt;br/&gt;&lt;br/&gt;Gem1402 done my photo.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2455992741">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1766543984">Whitesnake62</groundspeak:finder>
+      <groundspeak:text encoded="False">Found a trip to Paris.Thank you a nice cache.</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+<wpt lat="48.8426166666667" lon="2.36138333333333">
+  <time>2011-04-19T07:00:00.000Z</time>
+  <name>GC2TFZZ</name>
+  <desc>Jardin des Plantes (promo du MEGA) by moljaire &amp; thyra, traditional (1.5/1.5)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC2TFZZ</url>
+  <urlname>Jardin des Plantes (promo du MEGA)</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Traditional Cache</type>
+  <groundspeak:cache id="2196072" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>Jardin des Plantes (promo du MEGA)</groundspeak:name>
+  <groundspeak:placed_by>moljaire &amp; thyra</groundspeak:placed_by>
+  <groundspeak:owner id="3573906084">moljaire &amp; thyra</groundspeak:owner>
+  <groundspeak:type>Traditional Cache</groundspeak:type>
+  <groundspeak:container>small</groundspeak:container>
+  <groundspeak:difficulty>1.5</groundspeak:difficulty>
+  <groundspeak:terrain>1.5</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;</groundspeak:short_description>
+  <groundspeak:long_description html="True">&lt;p noalign=&quot;center&quot;&gt;&lt;img border=&quot;0&quot; src= &quot;http://img.geocaching.com/cache/66b90f91-d1e6-40ee-b9d7-8f3f82071a54.jpg&quot; width=&quot;600&quot; height=&quot;853&quot; /&gt;&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;span id=&quot;ctl00_ContentBody_LongDescription0&quot;&gt;&lt;/span&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;span id= &quot;ctl00_ContentBody_LongDescription0&quot;&gt;&lt;font face= &quot;Tahoma&quot;&gt;(Fran&#231;ais)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;span id= &quot;ctl00_ContentBody_LongDescription0&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;H&#233;ritier du Jardin royal des plantes m&#233;dicinales cr&#233;&#233; par Louis XIII en 1635, le Jardin des Plantes accueille le public depuis pr&#232;s de quatre cents ans. D&#233;couvrez un lieu unique, riche d'un patrimoine exceptionnel: jardin alpin, &#233;cologique, de roses et de roches, labyrinthe... Partez &#224; la d&#233;couverte des onze jardins qui, ensemble, composent un Jardin des Plantes unique et multiple, en perp&#233;tuelle &#233;volution.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;span id= &quot;ctl00_ContentBody_LongDescription0&quot;&gt;&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;Cette cache est en m&#234;me temps une cache pomo pour le PREMIER MEGA EVENT en FRANCE qui aura lieu dans le Montagne Bourbonnais du 01 au 03 octobre 2011 (GC2MHF5). Nous esp&#233;rons d'y tous vous rencontrer !&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;span id= &quot;ctl00_ContentBody_LongDescription0&quot;&gt; &lt;/span&gt;&lt;/p&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;span id= &quot;ctl00_ContentBody_LongDescription0&quot;&gt;&lt;i&gt;&lt;font face= &quot;Tahoma&quot;&gt;(English)&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;span id= &quot;ctl00_ContentBody_LongDescription0&quot;&gt;&lt;i&gt;&lt;font face= &quot;Tahoma&quot;&gt;Heritage of the Royal Garden of medical plants, created by louis XIII in 1635, this &quot;Garden of Plants&quot; has already been visited since 400 years. Discover this unique place: the 'alpin garden', ecological, roses and rocks, a labyrinth,... Enjoy the exploration of the 11 gardens who, together, compose a &quot;Garden of Plants&quot; unique and multiple, in constant evolution.&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;span id= &quot;ctl00_ContentBody_LongDescription0&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Tahoma&quot;&gt;This cache is also a promo cache for the FIRST MEGA EVENT in FRANCE that will take place from 01 till 03 october 2011 in the &quot;Montagne Bourbonnais&quot; (see GC2MHF5). We hope we'll see you there !&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p noalign=&quot;center&quot;&gt;&lt;a href=&quot;http://coord.info/GC2MHF5&quot;&gt;&lt;img alt=&quot;&quot; src= &quot;http://img10.hostingpics.net/pics/839046110311014424238583.jpg&quot; style=&quot;width: 1004px; height: 154px;&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;br /&gt; </groundspeak:long_description>
+  <groundspeak:encoded_hints>(FR) dans le coin|(UK) in the corner</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="955944713">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Owner Maintenance</groundspeak:type>
+      <groundspeak:finder id="3573906084">moljaire &amp; thyra</groundspeak:finder>
+      <groundspeak:text encoded="False">La cache a disparue, pourtant qu'elle &#xE9;tait bien plac&#xE9; et normalement pas visible pour des mugglers, sauf si la boite n'est pas remis correctement...J'essaierai de faire la maintenance le plus vite possible...&lt;br/&gt;&lt;br/&gt;A*</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2486318796">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Needs Maintenance</groundspeak:type>
+      <groundspeak:finder id="3985807793">starless</groundspeak:finder>
+      <groundspeak:text encoded="False">Va falloir faire quelquechose...</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="408677762">
+      <groundspeak:date>2011-05-12T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="3356477067">nathalie64</groundspeak:finder>
+      <groundspeak:text encoded="False">ben moi non plus pas trouv&#xE9;.Merci quand m&#xEA;me pour cette belle balade dans un joli jardin que je ne connaissait pas; Je ne viens &#xE0; Paris que pour des r&#xE9;unions. Rires</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1643535203">
+      <groundspeak:date>2011-05-12T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Needs Maintenance</groundspeak:type>
+      <groundspeak:finder id="2185383104">guile68</groundspeak:finder>
+      <groundspeak:text encoded="False">Une petite maintenance s'impose, vu les r&#xE9;sultats...</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1920415485">
+      <groundspeak:date>2011-05-11T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="2185383104">guile68</groundspeak:finder>
+      <groundspeak:text encoded="False">Idem que les pr&#xE9;c&#xE9;dents... J'ai cherch&#xE9; dans tous les coins possibles, et il n'y avait rien. Une petite maintenance ?&lt;br/&gt;Guile68</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="533845069">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="663274964">vosje</groundspeak:finder>
+      <groundspeak:text encoded="False">We searched,searched, searched, searched but did not found the cache. Pitty. But thanks for showing us this garden. Greatings from the netherlands</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="4102704490">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="66923302">merwiin</groundspeak:finder>
+      <groundspeak:text encoded="False">Pas trouv&#xE9; h&#xE9;las mais la foule du dimanche ne facilite pas les recherches :-)</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3434601253">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="4176795961">aik0nwan</groundspeak:finder>
+      <groundspeak:text encoded="False">After flash-event # (06)&lt;br/&gt;Alors l&#xE0; rien vu, que dalle, nada. M&#xEA;me avec l'arriv&#xE9;e d'un ami en renfort.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2877090958">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="3833128618">Daniel_Linnert</groundspeak:finder>
+      <groundspeak:text encoded="False">14:40&lt;br/&gt;&lt;br/&gt;Vymudleno. Hledali jsme ve trech a nic.&lt;br/&gt;&lt;br/&gt;geoDaneczek&lt;br/&gt;www.kolemsveta.com&lt;br/&gt;&lt;br/&gt;Probably muggled out. Trying to find at 3 pax and nothing.&lt;br/&gt;&lt;br/&gt;geoDaneczek&lt;br/&gt;www.kolemsveta.com</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1676608002">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="165405484">Superpp</groundspeak:finder>
+      <groundspeak:text encoded="False">En attendant le &quot;International Flash Event &#x2018;Springtime in Paris&#x2019;&quot;, je profite de ma matin&#xE9;e pour logguer quelques caches parisiennes. &lt;br/&gt;pas trouv&#xE9; comme les copains ...&lt;br/&gt;&lt;br/&gt;Merci au G&#xE9;oCacheur pour cette cache.&lt;br/&gt;SuperPP &#xE9;quip&#xE9; d'un TomTom One avec OffRoad Navigator et TomEdillo ( Paperless).</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+<wpt lat="48.8445833333333" lon="2.3496">
+  <time>2011-04-19T07:00:00.000Z</time>
+  <name>GC2TH36</name>
+  <desc>L&#39;Ap&#233;ro #1 - 18h-21h d&#233;but de soir&#233;e by sandrock26, traditional (1.5/1.5)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC2TH36</url>
+  <urlname>L&#39;Ap&#233;ro #1 - 18h-21h d&#233;but de soir&#233;e</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Traditional Cache</type>
+  <groundspeak:cache id="2197133" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>L&#39;Ap&#233;ro #1 - 18h-21h d&#233;but de soir&#233;e</groundspeak:name>
+  <groundspeak:placed_by>sandrock26</groundspeak:placed_by>
+  <groundspeak:owner id="489154791">sandrock26</groundspeak:owner>
+  <groundspeak:type>Traditional Cache</groundspeak:type>
+  <groundspeak:container>micro</groundspeak:container>
+  <groundspeak:difficulty>1.5</groundspeak:difficulty>
+  <groundspeak:terrain>1.5</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;</groundspeak:short_description>
+  <groundspeak:long_description html="True">&lt;hr /&gt; &lt;p&gt;&lt;img style=&quot;float: left; width: 144px; height: 192px;&quot; src= &quot;http://www.manicore.com/references/logo_paris.jpg&quot; /&gt;&lt;/p&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;h1 style=&quot;color: blue; text-align: center;&quot;&gt;L'Ap&#233;ro #1 - 18h-21h d&#233;but de soir&#233;e&lt;/h1&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;hr /&gt; &lt;br /&gt; &lt;br /&gt; &lt;p style=&quot;color: red;&quot;&gt;&lt;strong&gt;Attention: cette cache fait partie de la s&#233;rie sur l'ap&#233;ro, n'oubliez pas de relever l'indice qui se trouve a l'int&#233;rieur pour la bonus!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Vous voici a la d&#233;couverte de la rue Mouffetard et du quartier environnant, c&#233;l&#232;bre pour ses bars &#233;tudiants, ses restaurants, et son ambiance festive. Ah que de souvenirs dans cette rue o&#249; j'ai fini plus d'une fois compl&#232;tement d&#233;chir&#233; a 3h du mat' :) Puissiez vous l'appr&#233;cier autant que moi. Allez sant&#233;!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Il est 18h et c'est l'heure de rejoindre les copains pour prendre l'ap&#233;ro! Choisissez donc un bar et une fois install&#233; commandez un petit verre: de la simple bi&#232;re au long island, en passant par le TGV ou les shots de vodka. La soir&#233;e ne fait que commencer!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;[FTF: surfoo]&lt;/p&gt;</groundspeak:long_description>
+  <groundspeak:encoded_hints>Attention zone dangereuse: risque d'enlevement</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="166832567">
+      <groundspeak:date>2011-05-17T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="1367472212">Heddicmi</groundspeak:finder>
+      <groundspeak:text encoded="False">Bon bin vi, elle est plus l&#xE0;... En m&#xEA;me temps, j'ai regard&#xE9; 2 secondes par principe &lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1701494177">
+      <groundspeak:date>2011-05-17T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="3431307815">lesplusf</groundspeak:finder>
+      <groundspeak:text encoded="False">Nous confirmons que pour nous cette cache aura le gout des gla&#xE7;ons !!!&lt;br/&gt;Merci pour la balade !</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3254855139">
+      <groundspeak:date>2011-05-10T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="1346058644">khajhul</groundspeak:finder>
+      <groundspeak:text encoded="False">DNF...&lt;br/&gt;Avec un hint aussi pr&#xE9;cis, nous avons quelques doutes sur l'existence de la boite....</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2810073209">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="2397734892">cympaf</groundspeak:finder>
+      <groundspeak:text encoded="False">Malgr&#xE9; le hint, pas de visualisation de la micro cette fois. Et m&#xEA;me si elle &#xE9;tait en place, il nous aurait &#xE9;t&#xE9; impossible de s'en emparer face aux terrasses de caf&#xE9; d&#xE9;j&#xE0; bond&#xE9;es. Dommage...</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2980268209">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="1818683763">tioui92</groundspeak:finder>
+      <groundspeak:text encoded="False">Je confirme le log de Roxy34, la cache a disparu, ce qui m'inqui&#xE8;te pour la recherche de la bonus.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="743634341">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="3426658268">roxy34</groundspeak:finder>
+      <groundspeak:text encoded="False">J'etais pass&#xE9; hier vers 13h30 et elle y etait encore. J'ai laiss&#xE9; tomb&#xE9; hier car vraiment beaucoup trop de monde. Et l&#xE0;, je me pointe ce matin a 7h20 et je ne la vois plus. J'ai les b..&lt;br/&gt;&lt;br/&gt;Je n'arrive pas a comprendre comment des personnes peuvent logger avec autant de personnes dans les terrasses. Il est impossible de passer inaper&#xE7;u !!! &lt;br/&gt;&lt;br/&gt;This entry was edited by roxy34 on Sunday, 08 May 2011 at 11:39:11 UTC.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3902492766">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="4176795961">aik0nwan</groundspeak:finder>
+      <groundspeak:text encoded="False">After flash-event # (03)&lt;br/&gt;Ah ben y'avait pas. Muggl&#xE9;e ou tomb&#xE9;e ?</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1556442960">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3302229744">pepette95</groundspeak:finder>
+      <groundspeak:text encoded="False">Cache trouv&#xE9;e avec fennet93. Malgr&#xE9; beaucoup de moldus.&lt;br/&gt;MPLC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="147610332">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="1073537795">Pikachu et Lucario</groundspeak:finder>
+      <groundspeak:text encoded="False">Nous sommes pass&#xE9;s sur la cache avec Pacuso qui en connaissait l'emplacement et elle n'y &#xE9;tait plus (il devait &#xEA;tre 16 heures).&lt;br/&gt;Aurait-elle disparue dans la journ&#xE9;e ?</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3982348326">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="165405484">Superpp</groundspeak:finder>
+      <groundspeak:text encoded="False">En attendant le &quot;International Flash Event &#x2018;Springtime in Paris&#x2019;&quot;, je profite de ma matin&#xE9;e pour logguer quelques caches parisiennes. &lt;br/&gt;Une belle s&#xE9;rie qui a l'avantage de pouvoir se faire tranquillement &#xE0; pied !&lt;br/&gt;Les indices sont clairs et explicites pour ne devoir farfouiller partout !&lt;br/&gt;&lt;br/&gt;In = Out = Rien&lt;br/&gt;Merci au G&#xE9;oCacheur pour cette cache.&lt;br/&gt;SuperPP &#xE9;quip&#xE9; d'un TomTom One avec OffRoad Navigator et TomEdillo ( Paperless).</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+<wpt lat="48.8431166666667" lon="2.34963333333333">
+  <time>2011-04-19T07:00:00.000Z</time>
+  <name>GC2TH6D</name>
+  <desc>L&#39;Ap&#233;ro #2 - 21h-00h milieu de soir&#233;e by sandrock26, traditional (1.5/1.5)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC2TH6D</url>
+  <urlname>L&#39;Ap&#233;ro #2 - 21h-00h milieu de soir&#233;e</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Traditional Cache</type>
+  <groundspeak:cache id="2197233" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>L&#39;Ap&#233;ro #2 - 21h-00h milieu de soir&#233;e</groundspeak:name>
+  <groundspeak:placed_by>sandrock26</groundspeak:placed_by>
+  <groundspeak:owner id="489154791">sandrock26</groundspeak:owner>
+  <groundspeak:type>Traditional Cache</groundspeak:type>
+  <groundspeak:container>micro</groundspeak:container>
+  <groundspeak:difficulty>1.5</groundspeak:difficulty>
+  <groundspeak:terrain>1.5</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;</groundspeak:short_description>
+  <groundspeak:long_description html="True">&lt;hr /&gt; &lt;p&gt;&lt;img style=&quot;float: left; width: 144px; height: 192px;&quot; src= &quot;http://www.manicore.com/references/logo_paris.jpg&quot; /&gt;&lt;/p&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;h1 style=&quot;color: blue; text-align: center;&quot;&gt;L'Ap&#233;ro #2 - 21h-00h milieu de soir&#233;e&lt;/h1&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;hr /&gt; &lt;br /&gt; &lt;br /&gt; &lt;p style=&quot;color: red;&quot;&gt;&lt;strong&gt;Attention: cette cache fait partie de la s&#233;rie sur l'ap&#233;ro, n'oubliez pas de relever l'indice qui se trouve a l'int&#233;rieur pour la bonus!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Vous voici a la d&#233;couverte de la rue Mouffetard et du quartier environnant, c&#233;l&#232;bre pour ses bars &#233;tudiants, ses restaurants, et son ambiance festive. Ah que de souvenirs dans cette rue o&#249; j'ai fini plus d'une fois compl&#232;tement d&#233;chir&#233; a 3h du mat' :) Puissiez vous l'appr&#233;cier autant que moi. Allez sant&#233;!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Il est 21h et apr&#232;s avoir mang&#233; quelque chose pour tenir le choc, c'est l'heure de retourner a l'ap&#233;ro! Descendez un peu la rue et changez donc de bar il y a le choix. Et on recommande une petite tourn&#233;e: bi&#232;re, vodka red bull, sex on the beach. La soir&#233;e est bien entam&#233;e, et il n'y a pas qu'elle!&lt;/strong&gt;&lt;/p&gt; &lt;br /&gt; &lt;p&gt;[FTF: surfoo]&lt;/p&gt;</groundspeak:long_description>
+  <groundspeak:encoded_hints>Magnetique - A deux metres dans le panneau</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="3041466390">
+      <groundspeak:date>2011-05-18T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="631566824">vilcanota</groundspeak:finder>
+      <groundspeak:text encoded="False">Trouv&#xE9;e &#xE0; 18h45&lt;br/&gt;Un peu plus de monde ici, je dois attendre le bon momment, cache attrap&#xE9;e en faisant semblant de t&#xE9;l&#xE9;phoner pr&#xE8;s du spot&lt;br/&gt;&lt;br/&gt;TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="910826784">
+      <groundspeak:date>2011-05-17T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1367472212">Heddicmi</groundspeak:finder>
+      <groundspeak:text encoded="False">Bon, il est pas 20h, mais je tente ma chance...&lt;br/&gt;&lt;br/&gt;Euh... Finalement, je devrais p'tet attendre 20h... Un peu plus de sombrit&#xE9;, des gens occup&#xE9;s &#xE0; manger ou &#xE9;m&#xE9;ch&#xE9;s... &#xC7;a serait certainement plus facile !&lt;br/&gt;&lt;br/&gt;Mais l&#xE0; non... 17h.. L'ap&#xE9;ro n'a pas commenc&#xE9; (m&#xEA;me si 2 filles sont d&#xE9;j&#xE0; &#xE0; la fondue savoyarde !!).. Allez.. Recommen&#xE7;ons le &quot;plus c'est gros, mieux &#xE7;a passe&quot;... Je m'&#xE9;lance je r&#xE9;cup&#xE8;re... Pour replacer, j'attends quand m&#xEA;me une fen&#xEA;tre de tir &#xE0; peu pr&#xE8;s potable.&lt;br/&gt;&lt;br/&gt;&#xC7;a, c'est fait ! Discr&#xE9;tion 0, mais les gens n'en ont pas grand choses &#xE0; faire au final... Personne ne s'y int&#xE9;resse par la suite... Ok, je peux y aller !</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="207855884">
+      <groundspeak:date>2011-05-15T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Write note</groundspeak:type>
+      <groundspeak:finder id="3431307815">lesplusf</groundspeak:finder>
+      <groundspeak:text encoded="False">Pour du moldus &#xE7;a c'est du moldu !!!! On tombe en plein vide grenier !!! On est tellement gris&#xE9; par l'ap&#xE9;ro que l'on ne peut pas atteindre la boite sans mettre en p&#xE9;ril sa survie ....et la notre !&lt;br/&gt;Bon comme on a 3 grammes on envoie la photo au proprio pour qu'il valide notre trouvaille virtuelle !&lt;br/&gt;Merci pour la rigolade</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1812986133">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2029522602">TeamWaldesruh</groundspeak:finder>
+      <groundspeak:text encoded="False">During our short trip in Paris we found this cache bevor dinner.What a nice place here!&lt;br/&gt;Thanks for this cache and greetings from Germany&lt;br/&gt;#553&lt;br/&gt;Merci</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1551098195">
+      <groundspeak:date>2011-05-14T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1168883036">titoudidou</groundspeak:finder>
+      <groundspeak:text encoded="False">Attention, &#xE9;norm&#xE9;ment des Moldus ds ce coin de la rue Mouffetard ! Pr&#xE9;voir un stylo, ce que malheureusement nous n'avions pas !&lt;br/&gt;&lt;br/&gt;Les Titoudidou's</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3254855139">
+      <groundspeak:date>2011-05-10T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="1346058644">khajhul</groundspeak:finder>
+      <groundspeak:text encoded="False">DNF...&lt;br/&gt;Avec un hint aussi pr&#xE9;cis, nous avons quelques doutes sur l'existence de la boite....</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1328649900">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2397734892">cympaf</groundspeak:finder>
+      <groundspeak:text encoded="False">Apr&#xE8;s avoir visualis&#xE9; la micro de loin, nous attendons le moment ad&#xE9;quate pour la saisir et la reposer au beau milieu de cet endroit tr&#xE8;s fr&#xE9;quent&#xE9;. TFTC.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2950858281">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3426658268">roxy34</groundspeak:finder>
+      <groundspeak:text encoded="False">Comme vous pouvez voir sur le log precedement, moi aussi je l'ai trouv&#xE9;e ;)&lt;br/&gt;Il m'a fallu quand meme attendre : un type dehors a l'entree de l'hotel fuimait sa clope. On ne peut meme pas etre tranquille le matin de bonne heure !</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1457879513">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1818683763">tioui92</groundspeak:finder>
+      <groundspeak:text encoded="False">Il y a pas mal de passage dans le secteur, je rep&#xE8;re la cache et j'attends le bon moment pour pouvoir m'en saisir. Apr&#xE8;s avoir logu&#xE9;, il en est de m&#xEA;me pour la repose.&lt;br/&gt;MPLC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2919031530">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3757841818">lukabike.com</groundspeak:finder>
+      <groundspeak:text encoded="False">15:05 - Found during a vacation in Paris. Thanks for a good cache. Lukabike.com team from Czech Republic.</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+<wpt lat="48.84325" lon="2.35183333333333">
+  <time>2011-04-19T07:00:00.000Z</time>
+  <name>GC2TH92</name>
+  <desc>L&#39;Ap&#233;ro #3 - 00h-03h fin de soir&#233;e by sandrock26, traditional (1.5/1.5)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC2TH92</url>
+  <urlname>L&#39;Ap&#233;ro #3 - 00h-03h fin de soir&#233;e</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Traditional Cache</type>
+  <groundspeak:cache id="2197315" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>L&#39;Ap&#233;ro #3 - 00h-03h fin de soir&#233;e</groundspeak:name>
+  <groundspeak:placed_by>sandrock26</groundspeak:placed_by>
+  <groundspeak:owner id="489154791">sandrock26</groundspeak:owner>
+  <groundspeak:type>Traditional Cache</groundspeak:type>
+  <groundspeak:container>micro</groundspeak:container>
+  <groundspeak:difficulty>1.5</groundspeak:difficulty>
+  <groundspeak:terrain>1.5</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;</groundspeak:short_description>
+  <groundspeak:long_description html="True">&lt;hr /&gt; &lt;p&gt;&lt;img style=&quot;float: left; width: 144px; height: 192px;&quot; src= &quot;http://www.manicore.com/references/logo_paris.jpg&quot; /&gt;&lt;/p&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;h1 style=&quot;color: blue; text-align: center;&quot;&gt;L'Ap&#233;ro #3 - 00h-03h fin de soir&#233;e&lt;/h1&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;hr /&gt; &lt;br /&gt; &lt;br /&gt; &lt;p style=&quot;color: red;&quot;&gt;&lt;strong&gt;Attention: cette cache fait partie de la s&#233;rie sur l'ap&#233;ro, n'oubliez pas de relever l'indice qui se trouve a l'int&#233;rieur pour la bonus!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Vous voici a la d&#233;couverte de la rue Mouffetard et du quartier environnant, c&#233;l&#232;bre pour ses bars &#233;tudiants, ses restaurants, et son ambiance festive. Ah que de souvenirs dans cette rue o&#249; j'ai fini plus d'une fois compl&#232;tement d&#233;chir&#233; a 3h du mat' :) Puissiez vous l'appr&#233;cier autant que moi. Allez sant&#233;!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Il est minuit et c'est l'heure de l'ultime changement de bar pour finir l'ap&#233;ro! Vers le bas de la rue il reste les gros bars a shots ouverts jusqu'&#224; 5h. Allez on se l&#226;che et on commande gros: jager bomb, vokda, whishy coca. On a 2 grammes et on passe une super soir&#233;e! &#199;a va bien se passer...&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;[FTF: surfoo]&lt;/p&gt;</groundspeak:long_description>
+  <groundspeak:encoded_hints>A droite de la goutiere</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="1890835232">
+      <groundspeak:date>2011-05-18T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="631566824">vilcanota</groundspeak:finder>
+      <groundspeak:text encoded="False">Trouv&#xE9;e &#xE0; 18H40&lt;br/&gt;C'est l'heure de l'apero, alors je fais un tour dans le quartier.&lt;br/&gt;Trouv&#xE9;e sans probl&#xE8;me&lt;br/&gt;&lt;br/&gt;TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2258178634">
+      <groundspeak:date>2011-05-17T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1367472212">Heddicmi</groundspeak:finder>
+      <groundspeak:text encoded="False">Facilement trouv&#xE9;e et logu&#xE9;e. Je la trouvais l&#xE9;g&#xE8;rement trop visible... Elle l'est un peu moins maintenant.&lt;br/&gt;&lt;br/&gt;Je m'occuperais de la fin de l'after une autre fois !</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="4120952539">
+      <groundspeak:date>2011-05-17T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3023460972">scren</groundspeak:finder>
+      <groundspeak:text encoded="False">Found this on a walk during my lunchbreak today.&lt;br/&gt;&lt;br/&gt;TFTC&lt;br/&gt;scren</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3460825570">
+      <groundspeak:date>2011-05-15T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3431307815">lesplusf</groundspeak:finder>
+      <groundspeak:text encoded="False">Nous sommes en after et pour nous mettre la main sur une autre boite rel&#xE8;ve de l'exploit tant nos cerveaux sont alcoolis&#xE9;s !!! On reprend un gorgeon pour la route et on file vers la bonus...et oui on connait les lieux comme notre poche !</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3989933645">
+      <groundspeak:date>2011-05-13T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2029522602">TeamWaldesruh</groundspeak:finder>
+      <groundspeak:text encoded="False">During our short trip in Paris we found this cache.&lt;br/&gt;Thanks for this cache and greetings from Germany&lt;br/&gt;#543&lt;br/&gt;Merci</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2869874711">
+      <groundspeak:date>2011-05-11T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2873065236">odominiko</groundspeak:finder>
+      <groundspeak:text encoded="False">During my business trip in Paris I had time to find some caches. I could log this one at 19:28h. It was a very warm and sunny evening. At this location was a lot of traffic!&lt;br/&gt;&lt;br/&gt;TFTC + Regards from Germany&lt;br/&gt;.oOdominikOo.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="82374667">
+      <groundspeak:date>2011-05-10T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1346058644">khajhul</groundspeak:finder>
+      <groundspeak:text encoded="False">1891&#xE8;me cache.&lt;br/&gt;La seule de la s&#xE9;rie, pas tout &#xE0; fait &#xE0; l'heure de l'ap&#xE9;ro.... quoi que ......</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2663056358">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2397734892">cympaf</groundspeak:finder>
+      <groundspeak:text encoded="False">Sur les traces de tioui92, la cache est vite trouv&#xE9;e gr&#xE2;ce au hint. TFTC.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2897850409">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1818683763">tioui92</groundspeak:finder>
+      <groundspeak:text encoded="False">Je fais les caches &#xE0; l'envers, compte tenu de l'endroit o&#xF9; je me suis gar&#xE9;.&lt;br/&gt;Celle-ci est trouv&#xE9;e et logu&#xE9;e rapidement. Je pars vers la n&#xB0; 2, et puis je reviens car je me suis rendu compte que j'avais omis de noter l'indice.&lt;br/&gt;MPLC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="4034282053">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="4176795961">aik0nwan</groundspeak:finder>
+      <groundspeak:text encoded="False">After flash-event # 01&lt;br/&gt;La premi&#xE8;re apr&#xE8;s le rassemblement express dans Paris, accompagn&#xE9; de Pacuso, et Pikachu et Lucario qui l'a d&#xE9;nich&#xE9;.&lt;br/&gt;TFTC !</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+<wpt lat="48.84625" lon="2.34916666666667">
+  <time>2011-04-19T07:00:00.000Z</time>
+  <name>GC2TM02</name>
+  <desc>L&#39;Ap&#233;ro Bonus - 03h-06h l&#39;after by sandrock26, unknown (2/1.5)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC2TM02</url>
+  <urlname>L&#39;Ap&#233;ro Bonus - 03h-06h l&#39;after</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Unknown Cache</type>
+  <groundspeak:cache id="2199919" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>L&#39;Ap&#233;ro Bonus - 03h-06h l&#39;after</groundspeak:name>
+  <groundspeak:placed_by>sandrock26</groundspeak:placed_by>
+  <groundspeak:owner id="489154791">sandrock26</groundspeak:owner>
+  <groundspeak:type>Unknown Cache</groundspeak:type>
+  <groundspeak:container>micro</groundspeak:container>
+  <groundspeak:difficulty>2</groundspeak:difficulty>
+  <groundspeak:terrain>1.5</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;</groundspeak:short_description>
+  <groundspeak:long_description html="True">&lt;hr /&gt; &lt;p&gt;&lt;img style=&quot;float: left; width: 144px; height: 192px;&quot; src= &quot;http://www.manicore.com/references/logo_paris.jpg&quot; /&gt;&lt;/p&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;h1 style=&quot;color: blue; text-align: center;&quot;&gt;L'Ap&#233;ro Bonus - 03h-06h l'after&lt;/h1&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;br /&gt; &lt;hr /&gt; &lt;br /&gt; &lt;br /&gt; &lt;p&gt;Vous voici a la d&#233;couverte de la rue Mouffetard et du quartier environnant, c&#233;l&#232;bre pour ses bars &#233;tudiants, ses restaurants, et son ambiance festive. Ah que de souvenirs dans cette rue o&#249; j'ai fini plus d'une fois compl&#232;tement d&#233;chir&#233; a 3h du mat' :) Puissiez vous l'appr&#233;cier autant que moi. Allez sant&#233;!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Il est maintenant 3h, on a 2 grammes dans le sang et on a perdu quelques compagnons de boisson au fil de la soir&#233;e. L'ap&#233;ro se termine donc.&lt;br /&gt; &quot;QUOI! NON JE VEUX PAAAAAAAS! On prend le bus et c'est after chez moi!&quot;&lt;br /&gt; Mais comme on ne sait pas o&#249; c'est, il va falloir se souvenir des indices diss&#233;min&#233;s tout au long de la soir&#233;e pour r&#233;soudre l'&#233;nigme et continuer la f&#234;te... enfin si vous n'&#234;tes pas trop cuit!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Le rendez-vous est aux coordonn&#233;es suivantes:&lt;br /&gt; N 48&#176; 50.[B+C][C-B][A+C]&lt;br /&gt; E 002&#176; 21.[2*C -A-B][A][A]&lt;br /&gt; Et venez avec une bouteille!&lt;br /&gt; &lt;strong&gt;APEROOOOOOOOOOOOOOOOOOOOO!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;[FTF: a prendre!]&lt;/p&gt;</groundspeak:long_description>
+  <groundspeak:encoded_hints>Dans le lierre, magnetique sur la barre transversale pres du piquet</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="621402757">
+      <groundspeak:date>2011-05-18T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="631566824">vilcanota</groundspeak:finder>
+      <groundspeak:text encoded="False">Trouv&#xE9;e &#xE0; 19h&lt;br/&gt;Il me manque un indice, alors plusieurs possibilit&#xE9;s, je calcule et rentre tout dans le GPS, et mon 1er choix est le bon &lt;img src=&quot;/images/icons/icon_smile_cool.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;img src=&quot;/images/icons/icon_smile_cool.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;img src=&quot;/images/icons/icon_smile_cool.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;.&lt;br/&gt;Sympathique quartier.&lt;br/&gt;&lt;br/&gt;TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1617734676">
+      <groundspeak:date>2011-05-15T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3431307815">lesplusf</groundspeak:finder>
+      <groundspeak:text encoded="False">Bingo mr lesplusf met la main dessus, mme lesplusf pendant ce temps....et bien elle cuve...et mlle lesplusf va finir au commissariat !&lt;br/&gt;Merci pour la balade super cool et arros&#xE9;e comme il se doit !</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1121913928">
+      <groundspeak:date>2011-05-13T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1660831054">Blinette</groundspeak:finder>
+      <groundspeak:text encoded="False">De nouveau en formation dans le quartier, j'en profite pour passer une seconde fois sur le spot. Cette fois avec ma copine la moldu suisse-allemande Corinna.&lt;br/&gt;MPLC Sandrock !!</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3516695855">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3426658268">roxy34</groundspeak:finder>
+      <groundspeak:text encoded="False">Pareil pour moi, deux possibilit&#xE9;s se detachent en l'absence du premier indice. Le premier lieu avait l'air pas mal mais ce n'etait pas le bon. Du coup je pars sur la 2eme possibilit&#xE9; et Bingo !!&lt;br/&gt;&lt;br/&gt;Merci pour cette petite serie bien sympathique.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1238410722">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1818683763">tioui92</groundspeak:finder>
+      <groundspeak:text encoded="False">L'absence de l'indice de la cache n&#xB0; 1 m'oblige &#xE0; mettre en action mon neurone de r&#xE9;flexion. Apparemment il fonctionne encore assez bien, puisque je me retrouve avec 2 possibilit&#xE9;s principales et quelques autres avec 1/1000&#xE8;me de ' d'&#xE9;cart.&lt;br/&gt;Je vais sur la premi&#xE8;re et l&#xE0; je ne remarque rien bien que le lieu soit propice &#xE0; mettre une cache. Je vais donc voir le 2&#xE8;me lieu qui lui ne m'inspire pas du tout. Je retourne donc sur le 1er et l&#xE0; je cherche avec plus d'attention, et plus particuli&#xE8;rement du lierre, comme cela est dit dans le hint. Au bout de quelques minutes je vois le lierre et je d&#xE9;couvre rapidement la cache.&lt;br/&gt;MPLC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2961335837">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Write note</groundspeak:type>
+      <groundspeak:finder id="4176795961">aik0nwan</groundspeak:finder>
+      <groundspeak:text encoded="False">After flash-event # (06)&lt;br/&gt;Trouv&#xE9; mais vu que je n'ai pas eu le #1 de la s&#xE9;rie, je le laisse en note. Pacuso avait l'indice manquant, &#xE7;a a aid&#xE9;.&lt;br/&gt;Donc je reviendrai.&lt;br/&gt;&lt;br/&gt;Ap&#xE9;rooo ! &lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2401441707">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3302229744">pepette95</groundspeak:finder>
+      <groundspeak:text encoded="False">Cache trouv&#xE9;e avec fennet93.Rencontre avec SuperPP.&lt;br/&gt;MPLC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2159760343">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1073537795">Pikachu et Lucario</groundspeak:finder>
+      <groundspeak:text encoded="False">Apr&#xE8;s le mini event nous poursuivons la recherche de cache, apr&#xE8;s avoir r&#xE9;cup&#xE9;r&#xE9; les indices dans les autres caches celle-ci est vite trouv&#xE9;e gr&#xE2;ce &#xE0; l'indice.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="4104842802">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="165405484">Superpp</groundspeak:finder>
+      <groundspeak:text encoded="False">En attendant le &quot;International Flash Event &#x2018;Springtime in Paris&#x2019;&quot;, je profite de ma matin&#xE9;e pour logguer quelques caches parisiennes. &lt;br/&gt;Une belle s&#xE9;rie qui a l'avantage de pouvoir se faire tranquillement &#xE0; pied !&lt;br/&gt;Une fois les indices r&#xE9;cup&#xE9;r&#xE9;s, il ne reste plus qu'&#xE0; d&#xE9;couvrir la Bonus ! Nickel!&lt;br/&gt;Alors que j'arrive sur l spot, la Team Fennet93 et pepette95 arrive aussi ... Avec un petit retard !!! &lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;img src=&quot;/images/icons/icon_smile_big.gif&quot; border=&quot;0&quot; align=&quot;middle&quot;&gt;&lt;br/&gt;&lt;br/&gt;In = Out = Rien&lt;br/&gt;Merci au G&#xE9;oCacheur pour cette cache.&lt;br/&gt;SuperPP &#xE9;quip&#xE9; d'un TomTom One avec OffRoad Navigator et TomEdillo ( Paperless).</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1119053551">
+      <groundspeak:date>2011-05-07T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2857466420">Fred &amp; Michelle</groundspeak:finder>
+      <groundspeak:text encoded="False">#1785&lt;br/&gt;Comme pour les trois de la s&#xE9;rie, la d&#xE9;couverte est sans probl&#xE8;me.&lt;br/&gt;&lt;br/&gt;Merci pour cette s&#xE9;rie sympa et facile.</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+<wpt lat="48.8461" lon="2.35016666666667">
+  <time>2011-04-28T07:00:00.000Z</time>
+  <name>GC2V6K2</name>
+  <desc>Enceinte de Philippe Auguste by nounie, traditional (1.5/1.5)</desc>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?wp=GC2V6K2</url>
+  <urlname>Enceinte de Philippe Auguste</urlname>
+  <sym>Geocache</sym>
+  <type>Geocache|Traditional Cache</type>
+  <groundspeak:cache id="2216845" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+  <groundspeak:name>Enceinte de Philippe Auguste</groundspeak:name>
+  <groundspeak:placed_by>nounie</groundspeak:placed_by>
+  <groundspeak:owner id="252828840">nounie</groundspeak:owner>
+  <groundspeak:type>Traditional Cache</groundspeak:type>
+  <groundspeak:container>micro</groundspeak:container>
+  <groundspeak:difficulty>1.5</groundspeak:difficulty>
+  <groundspeak:terrain>1.5</groundspeak:terrain>
+  <groundspeak:country>France</groundspeak:country>
+  <groundspeak:state>&#206;le-de-France</groundspeak:state>
+  <groundspeak:attributes>
+  </groundspeak:attributes>
+  <groundspeak:short_description html="True">&lt;br /&gt;&lt;br /&gt;</groundspeak:short_description>
+  <groundspeak:long_description html="True">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;&quot; src= &quot;http://img.geocaching.com/cache/b33a6191-79ab-4bf7-8fb4-f451258c92dc.jpg&quot; style=&quot;width: 215px; height: 287px;&quot; /&gt;&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;L&amp;rsquo;&lt;b&gt;enceinte de Philippe Auguste&lt;/b&gt; est la plus ancienne des enceintes de Paris dont on connaisse le trac&#233; avec pr&#233;cision. Partiellement int&#233;gr&#233;e dans les constructions ult&#233;rieures, elle a laiss&#233; plus de traces de sa pr&#233;sence que les fortifications ult&#233;rieures, remplac&#233;es par des boulevards.&lt;br /&gt; &lt;br /&gt; La construction de l'enceinte se place dans le contexte des luttes entre Philippe Auguste et la dynastie anglaise des Plantagen&#234;t. Afin de prot&#233;ger Paris, le roi fran&#231;ais, avant de partir pour la troisi&#232;me croisade, ordonna la construction d'une muraille de pierre afin de prot&#233;ger la capitale en son absence.&lt;br /&gt; &lt;br /&gt; Sur la Rive droite, Fran&#231;ois Ier fit d&#233;molir en 1533 les portes et autorisa la location des terrains de l'enceinte sans pour autant en autoriser la d&#233;molition. A partir de la seconde moiti&#233; du XVIe si&#232;cle, ces terrains furent vendus &#224; des particuliers, causant bien souvent le d&#233;mant&#232;lement de larges portions de la muraille. Le mur Rive gauche suivit le m&#234;me chemin sous Henri IV; en 1590, il fut pr&#233;f&#233;r&#233; de creuser des foss&#233;s au-del&#224; des faubourgs de la ville plut&#244;t que moderniser &#224; nouveau l'enceinte.&lt;br /&gt; &lt;br /&gt; Les foss&#233;s &#224; proximit&#233; de la Seine servant d'&#233;gouts &#224; ciel ouvert et posant des probl&#232;mes de salubrit&#233;, il faut d&#233;cid&#233; au XVIIe si&#232;cle de les remplacer par des galeries couvertes avant leur remblaiement. Les derni&#232;res portes subsistantes, inadapt&#233;es &#224; une circulation sans cesse croissante, furent ras&#233;es dans les ann&#233;es 1680 de sorte que l'enceinte devint totalement invisible.&lt;br /&gt; &lt;br /&gt; L'enceinte &#233;tant devenue quasiment invisible aux yeux du passant non-averti depuis le XVIIe si&#232;cle, il n'en reste pas moins qu'il est encore possible d'en apercevoir certaines portions. Il faut cependant savoir qu'en raison de l'absorption du mur par les habitations environnantes (courtine utilis&#233;e comme mur d'appui, tour utilis&#233;e comme cage d'escalier...), les vestiges sont souvent difficilement rep&#233;rables. Une grande partie d'entre eux sont situ&#233;s sur des propri&#233;t&#233;s priv&#233;es, non accessibles au public.&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Pour plus d'informations, consultez &lt;a href= &quot;http://fr.wikipedia.org/wiki/Enceinte_de_Philippe_Auguste&quot;&gt;http://fr.wikipedia.org/wiki/Enceinte_de_Philippe_Auguste&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+  <groundspeak:encoded_hints>magnetique</groundspeak:encoded_hints>
+  <groundspeak:logs>
+    <groundspeak:log id="2192150446">
+      <groundspeak:date>2011-05-18T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="631566824">vilcanota</groundspeak:finder>
+      <groundspeak:text encoded="False">Trouv&#xE9;e &#xE0; 19h15&lt;br/&gt;Et hop, la derni&#xE8;re de mon petit tour dans le quartier, en sortant de ma formation et de l'apero.&lt;br/&gt;La boite est vite trouv&#xE9;e. Merci nounie.&lt;br/&gt;&lt;br/&gt;TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1433851177">
+      <groundspeak:date>2011-05-13T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="1660831054">Blinette</groundspeak:finder>
+      <groundspeak:text encoded="False">Encore plus proche de mon lieu de stage que les Ar&#xE8;nes, me voici avec mes copines moldues &#xE0; logger en toute tranquillit&#xE9;. Merci Nounie pour la d&#xE9;couverte du mur. Moultes fois pass&#xE9;e devant sans savoir, MPLC.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="2288837027">
+      <groundspeak:date>2011-05-11T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2873065236">odominiko</groundspeak:finder>
+      <groundspeak:text encoded="False">During my business trip in Paris I had time to find some caches. I could log this one at 19:59h. It was a very warm and sunny evening. This one was easy to get ...&lt;br/&gt;&lt;br/&gt;TFTC + Regards from Germany&lt;br/&gt;.oOdominikOo.</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="540950241">
+      <groundspeak:date>2011-05-11T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3390005618">Scotty-cz</groundspeak:finder>
+      <groundspeak:text encoded="False">TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="487917270">
+      <groundspeak:date>2011-05-10T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Didn't find it</groundspeak:type>
+      <groundspeak:finder id="1346058644">khajhul</groundspeak:finder>
+      <groundspeak:text encoded="False">DNF....&lt;br/&gt;Manque d'inspiration....</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="4215392382">
+      <groundspeak:date>2011-05-10T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="220318025">Freť&#225;ci</groundspeak:finder>
+      <groundspeak:text encoded="False">Nalezeno s T.Piller a Scotty-cz.&lt;br/&gt;TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="540950241">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="635209810">T.Piller</groundspeak:finder>
+      <groundspeak:text encoded="False">TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="822737294">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3771348100">Poipoi91</groundspeak:finder>
+      <groundspeak:text encoded="False">D&#xE9;j&#xE0; pass&#xE9; plusieurs fois devant ce mur mais la cache n'existait pas encore. Pas de difficult&#xE9; pour la trouver (malgr&#xE9; la lenteur de synchro du GPS qui n'est pas vraiment utile ici...)&lt;br/&gt;&lt;br/&gt;TFTC</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="1974911924">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="3327266839">superfelix</groundspeak:finder>
+      <groundspeak:text encoded="False">The last cache for today. At least that was an easy one. Paris and our GPS are no friends.&lt;br/&gt;&lt;br/&gt;#1677&lt;br/&gt;&lt;br/&gt;Merci</groundspeak:text>
+    </groundspeak:log>
+    <groundspeak:log id="3230036584">
+      <groundspeak:date>2011-05-08T00:00:00.0000000-07:00</groundspeak:date>
+      <groundspeak:type>Found it</groundspeak:type>
+      <groundspeak:finder id="2397734892">cympaf</groundspeak:finder>
+      <groundspeak:text encoded="False">Pas de difficult&#xE9; pour trouver cette micro, toujours sur les traces de tioui92. TFTC.</groundspeak:text>
+    </groundspeak:log>
+  </groundspeak:logs>
+  <groundspeak:travelbugs></groundspeak:travelbugs>
+  </groundspeak:cache>
+</wpt>
+</gpx>
